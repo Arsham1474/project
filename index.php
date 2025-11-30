@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
     <!----------------BOOTSTRAP------------------->
     <!----------------Latest Compile and minified CSS---->
@@ -13,6 +14,7 @@
     <meta charset="UTF-8">
     <title>test</title>
 </head>
+
 <body>
     <nav class="navbar navbar-default">
         <div class="container">
@@ -22,15 +24,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                    <a href="#" class="navbar-brand">
-                        <span class="glyphicon glyphicon-apple">شهدای 9 دی</span>
-                    </a>
+                <a href="#" class="navbar-brand">
+                    <span class="glyphicon glyphicon-apple">شهدای 9 دی هسته ای دی</span>
+                </a>
             </div>
             <div class="collapse navbar-collapse" id="menue">
                 <ul class="nav navbar-nav">
-                    <li><a href="3">خانه</a></li>
+                    <li><a href="#">خانه</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">  سالن ها
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> سالن ها
                             <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
@@ -75,4 +77,5 @@
         </div>
     </nav>
 </body>
+
 </html>
